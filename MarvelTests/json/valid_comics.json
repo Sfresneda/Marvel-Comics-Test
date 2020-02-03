@@ -1,0 +1,3593 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2020 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2020 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2020 MARVEL</a>",
+  "etag": "39585c4c870201f0faef4c728e6c3f5a68eaa51c",
+  "data": {
+    "offset": 0,
+    "limit": 10,
+    "total": 34,
+    "count": 10,
+    "results": [
+      {
+        "id": 16222,
+        "digitalId": 0,
+        "title": "Women of Marvel Vol. 2 (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "More classic tales of Marvel's leading ladies! Featuring Kitty Pryde, Black Cat, Dagger, Spider-Woman, Tigra, Jubilee and more! Collecting AVENGERS #83, STRANGE TALES #10-11, SPIDER-WOMAN #10, WEST COAST AVENGERS #15, visions & the Scarlet Witch #12, Uncanny X-Men #168, 189, 201, & 218\r<br>232 PGS./Rated A ...$24.99 \r<br>",
+        "modified": "2017-04-28T10:23:47-0400",
+        "isbn": "0-7851-2708-9",
+        "upc": "5960612708-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "More classic tales of Marvel's leading ladies! Featuring Kitty Pryde, Black Cat, Dagger, Spider-Woman, Tigra, Jubilee and more! Collecting AVENGERS #83, STRANGE TALES #10-11, SPIDER-WOMAN #10, WEST COAST AVENGERS #15, visions & the Scarlet Witch #12, Uncanny X-Men #168, 189, 201, & 218\r<br>232 PGS./Rated A ...$24.99 \r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16222",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/16222/women_of_marvel_vol_2_trade_paperback?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2715",
+          "name": "Women of Marvel Vol. 2 (2007)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13759",
+            "name": "Uncanny X-Men (1963) #218"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17893",
+            "name": "West Coast Avengers (1985) #15"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18458",
+            "name": "Vision and the Scarlet Witch (1985) #12"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13742",
+            "name": "Uncanny X-Men (1963) #201"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13730",
+            "name": "Uncanny X-Men (1963) #189"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13709",
+            "name": "Uncanny X-Men (1963) #168"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10936",
+            "name": "Spider-Woman (1978) #10"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/7336",
+            "name": "Avengers (1963) #83"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2007-08-08T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/590214113cf31",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/590214113cf31",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc39ce9c411a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 13,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16222/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/104",
+              "name": "Steve Englehart",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7018",
+              "name": "Ken Fedunieiwicz",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+              "name": "Glynis Oliver",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2363",
+              "name": "Petra Scotese",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/259",
+              "name": "Mark Gruenwald",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/215",
+              "name": "Ann Nocenti",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1833",
+              "name": "Jim Salicrup",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2712",
+              "name": "Richard Howell",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1894",
+              "name": "Bill Oakley",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+              "name": "Tom Orzechowski",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5044",
+              "name": "Marc Silvestri",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/333",
+              "name": "Frank Springer",
+              "role": "inker"
+            }
+          ],
+          "returned": 13
+        },
+        "characters": {
+          "available": 40,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16222/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354",
+              "name": "Adam Warlock"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+              "name": "Black Widow"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009232",
+              "name": "Ch'od"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009733",
+              "name": "Charles Xavier"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009247",
+              "name": "Corsair"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+              "name": "Dazzler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+              "name": "Hank Pym"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+              "name": "Hawkeye"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009342",
+              "name": "Hepzibah"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009390",
+              "name": "Klaw"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009402",
+              "name": "Lilandra"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009405",
+              "name": "Lockheed"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009408",
+              "name": "Longshot"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009416",
+              "name": "Magma (Amara Aquilla)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16222/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15235",
+              "name": "Come On In, The Revolution's Fine",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20903",
+              "name": "Things That Go Flit In the Night",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/27845",
+              "name": "Professor Xavier Is a Jerk!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/27846",
+              "name": "Kitty's Kostume Korner",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/27888",
+              "name": "Two Girls Out To Have Fun",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/27912",
+              "name": "Duel",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/27946",
+              "name": "Charge of the Light Brigade",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38052",
+              "name": "The Lady ... or the Tigra",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39321",
+              "name": "Double Sized Climax",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67540",
+              "name": "WOMEN OF MARVEL VOL. 2 0 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 10
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16222/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 16023,
+        "digitalId": 0,
+        "title": "Uncanny X-Men: Rise & Fall of the Shi'ar Empire (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "A brand-new era for UNCANNY X-MEN begins here! Fresh off X-MEN: DEADLY GENESIS, Ed Brubaker takes the helm of Marvel's mighty mutants. Young Guns Reloaded artist Billy Tan and Clayton Henry join Ed for a story that won't just affect Earth, but will rock the foundations of the entire galaxy! Vulcan is out for revenge and has his sights set on the Shi'ar Empire! Get ready for the ride of your life! A perfect starting point for any new reader! Collecting \r<br>UNCANNY X-MEN #475-486.\r<br>\r<br>272 PGS./Rated T+ ...$34.99\r<br>",
+        "modified": "2017-05-23T09:51:41-0400",
+        "isbn": "0-7851-2515-9",
+        "upc": "5960612515-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "A brand-new era for UNCANNY X-MEN begins here! Fresh off X-MEN: DEADLY GENESIS, Ed Brubaker takes the helm of Marvel's mighty mutants. Young Guns Reloaded artist Billy Tan and Clayton Henry join Ed for a story that won't just affect Earth, but will rock the foundations of the entire galaxy! Vulcan is out for revenge and has his sights set on the Shi'ar Empire! Get ready for the ride of your life! A perfect starting point for any new reader! Collecting \r<br>UNCANNY X-MEN #475-486.\r<br>\r<br>272 PGS./Rated T+ ...$34.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16023",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/16023/uncanny_x-men_rise_fall_of_the_shiar_empire_hardcover?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2555",
+          "name": "Uncanny X-Men: Rise & Fall of the Shi'ar Empire (2007)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13423",
+            "name": "Uncanny X-Men (1963) #486"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/6223",
+            "name": "Uncanny X-Men (1963) #485"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/6077",
+            "name": "Uncanny X-Men (1963) #484"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5942",
+            "name": "Uncanny X-Men (1963) #483"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5777",
+            "name": "Uncanny X-Men (1963) #482"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5631",
+            "name": "Uncanny X-Men (1963) #481"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5498",
+            "name": "Uncanny X-Men (1963) #480"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5201",
+            "name": "Uncanny X-Men (1963) #479"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5049",
+            "name": "Uncanny X-Men (1963) #478"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4753",
+            "name": "Uncanny X-Men (1963) #477"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4435",
+            "name": "Uncanny X-Men (1963) #476"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4434",
+            "name": "Uncanny X-Men (1963) #475"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2007-07-25T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bc3533fed96a",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/59243d1e1c437",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/59234a78b92a0",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc5da58d73b0",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/4bc5cabe3b3a6",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc5c4db29040",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc5bbb996406",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc5b82a25e31",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc5a5560c9df",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc4c9253bcee",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bc356ef77b4f",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bc3533fed96a",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bb87f8fa5824",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bb846781bced",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16023/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+              "name": "Ed Brubaker",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Virtual Calligr",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/295",
+              "name": "Clayton Henry",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+              "name": "Mike Marts",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11553",
+              "name": "Danny K. Miki",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+              "name": "Mark Morales",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/627",
+              "name": "Christina Strain",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/448",
+              "name": "Billy Tan",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/453",
+              "name": "John Watson",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 17,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16023/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009232",
+              "name": "Ch'od"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009247",
+              "name": "Corsair"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009270",
+              "name": "Deathbird"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009321",
+              "name": "Gladiator (Kallark)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009342",
+              "name": "Hepzibah"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009402",
+              "name": "Lilandra"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009499",
+              "name": "Polaris"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+              "name": "Professor X"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009430",
+              "name": "Rachel Grey"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009531",
+              "name": "Raza"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011078",
+              "name": "Starjammers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009667",
+              "name": "Thunderbird (Neal Shaara)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011011",
+              "name": "Vulcan (Gabriel Summers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 17
+        },
+        "stories": {
+          "available": 25,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16023/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/776",
+              "name": "UNCANNY X-MEN (1963) #475",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/777",
+              "name": "1 of 12 - Rise and Fall of the Shi-AR Empire",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/778",
+              "name": "UNCANNY X-MEN (1963) #476",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/779",
+              "name": "2 of 12 - Rise and Fall of the Shi'AR Empire",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/780",
+              "name": "3 of 12 - Rise and Fall of the Shi-AR Empire",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/781",
+              "name": "UNCANNY X-MEN (1963) #478",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/782",
+              "name": "4 of 12 - Rise and Fall of the Shi'AR Empire",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/783",
+              "name": "UNCANNY X-MEN (1963) #479",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/784",
+              "name": "5 of 12 - Rise and Fall of the Shi-AR Empire",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/785",
+              "name": "UNCANNY X-MEN (1963) #480",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/786",
+              "name": "6 of 12 - Rise and Fall of the Shi-AR Empire",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/787",
+              "name": "UNCANNY X-MEN (1963) #481",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/788",
+              "name": "7 of 12 - Rise and Fall of the Shi-AR Empire",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/789",
+              "name": "UNCANNY X-MEN (1963) #482",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/790",
+              "name": "8 of 12 - Rise and Fall of the Shi-AR Empire",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/7610",
+              "name": "9 of 12 - Rise and Fall of the Shi-AR Empire; Franklin Richards back-ups",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/7611",
+              "name": "UNCANNY X-MEN (1963) #484",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/7612",
+              "name": "10 of 12 - Rise and Fall of the Shi-AR Empire",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8075",
+              "name": "10 of 12 - Rise and Fall of the Shi-AR Empire",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8076",
+              "name": "10 of 12 - Rise and Fall of the Shi-AR Empire",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16023/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 4434,
+        "digitalId": 2735,
+        "title": "Uncanny X-Men (1963) #475",
+        "issueNumber": 475,
+        "variantDescription": "",
+        "description": "\"THE RISE AND FALL OF THE SHI'AR EMPIRE\" Begins!  Vulcan is out for revenge and has his sites set on the Shi'Ar Empire! Get ready for the ride of your life!",
+        "modified": "2014-07-29T08:30:33-0400",
+        "isbn": "",
+        "upc": "5960602461-47511",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "\"THE RISE AND FALL OF THE SHI'AR EMPIRE\" Begins!  Vulcan is out for revenge and has his sites set on the Shi'Ar Empire! Get ready for the ride of your life!"
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"THE RISE AND FALL OF THE SHI'AR EMPIRE\" Part  1!\r<br>A brand new era for the Uncanny X-Men begins here! Fresh off X-MEN: DEADLY GENESIS, Ed Brubaker takes the helm of Marvel's mighty mutants. Billy Tan joins Ed for a story that won't just affect earth, but will rock the foundations of the entire galaxy! Vulcan is out for revenge and has his sites set on the Shi'Ar Empire! Get ready for the ride of your life! A perfect starting point for any new reader!\r<br>32 PGS./Rated T+ ...$2.99 \r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4434",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/4434/uncanny_x-men_1963_475?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Uncanny-X-Men-475/digital-comic/2735?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2735&utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/2735?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+          "name": "Uncanny X-Men (1963 - 2011)"
+        },
+        "variants": [],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16023",
+            "name": "Uncanny X-Men: Rise & Fall of the Shi'ar Empire (Hardcover)"
+          }
+        ],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2006-07-05T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2008-03-05T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2010-05-27T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4d24f578060ce",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc5da58d73b0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/4434/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+              "name": "Ed Brubaker",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Virtual Calligr",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+              "name": "Mike Marts",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11553",
+              "name": "Danny K. Miki",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/448",
+              "name": "Billy Tan",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 15,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/4434/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009232",
+              "name": "Ch'od"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009247",
+              "name": "Corsair"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009321",
+              "name": "Gladiator (Kallark)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009342",
+              "name": "Hepzibah"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009402",
+              "name": "Lilandra"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009499",
+              "name": "Polaris"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+              "name": "Professor X"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009430",
+              "name": "Rachel Grey"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009531",
+              "name": "Raza"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011078",
+              "name": "Starjammers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009667",
+              "name": "Thunderbird (Neal Shaara)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011011",
+              "name": "Vulcan (Gabriel Summers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 15
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/4434/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/776",
+              "name": "UNCANNY X-MEN (1963) #475",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/777",
+              "name": "1 of 12 - Rise and Fall of the Shi-AR Empire",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/4434/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 4100,
+        "digitalId": 0,
+        "title": "Uncanny X-Men Omnibus Vol. 1 (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "When a young writer named Chris Claremont took over X-Men in 1976, few fans could predict the incredible impact he would have on the Marvel Comics series. With a flair for realistic dialogue, heartfelt storylines and hard-hitting action, Claremont's writing breathed life into the characters. In collaboration with artists Dave Cockrum and John Byrne, Claremont crafted a run still heralded as a definitive era on the book. UNCANNY X-MEN became more than just another super-hero title: this diverse cast of mutants fighting against prejudice and intolerance has resonated in the hearts of millions of devoted readers. Now, the first five years of their landmark run on UNCANNY X-MEN are collected in one oversized volume. This keepsake edition also includes all original letters pages, newly remastered coloring and other uncanny extras! Collects UNCANNY X-MEN #94-131 and ANNUAL #3, and GIANT-SIZE X-MEN #1.\r<br>848 PGS./Rated T+ SUGGESTED FOR TEENS AND UP ...$99.99\r<br>",
+        "modified": "2019-12-20T14:27:01-0500",
+        "isbn": "0-7851-2101-3",
+        "upc": "5960612101-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "When a young writer named Chris Claremont took over X-Men in 1976, few fans could predict the incredible impact he would have on the Marvel Comics series. With a flair for realistic dialogue, heartfelt storylines and hard-hitting action, Claremont's writing breathed life into the characters. In collaboration with artists Dave Cockrum and John Byrne, Claremont crafted a run still heralded as a definitive era on the book. UNCANNY X-MEN became more than just another super-hero title: this diverse cast of mutants fighting against prejudice and intolerance has resonated in the hearts of millions of devoted readers. Now, the first five years of their landmark run on UNCANNY X-MEN are collected in one oversized volume. This keepsake edition also includes all original letters pages, newly remastered coloring and other uncanny extras! Collects UNCANNY X-MEN #94-131 and ANNUAL #3, and GIANT-SIZE X-MEN #1.\r<br>848 PGS./Rated T+ SUGGESTED FOR TEENS AND UP ...$99.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4100",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/4100/uncanny_x-men_omnibus_vol_1_hardcover?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/1723",
+          "name": "Uncanny X-Men Omnibus Vol. 1 (2006)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12448",
+            "name": "Uncanny X-Men (1963) #130"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12446",
+            "name": "Uncanny X-Men (1963) #129"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12445",
+            "name": "Uncanny X-Men (1963) #128"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12444",
+            "name": "Uncanny X-Men (1963) #127"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12443",
+            "name": "Uncanny X-Men (1963) #126"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12442",
+            "name": "Uncanny X-Men (1963) #125"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12441",
+            "name": "Uncanny X-Men (1963) #124"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12440",
+            "name": "Uncanny X-Men (1963) #123"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12439",
+            "name": "Uncanny X-Men (1963) #122"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12438",
+            "name": "Uncanny X-Men (1963) #121"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12437",
+            "name": "Uncanny X-Men (1963) #120"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12435",
+            "name": "Uncanny X-Men (1963) #119"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12434",
+            "name": "Uncanny X-Men (1963) #118"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12433",
+            "name": "Uncanny X-Men (1963) #117"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12432",
+            "name": "Uncanny X-Men (1963) #116"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12431",
+            "name": "Uncanny X-Men (1963) #115"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12430",
+            "name": "Uncanny X-Men (1963) #114"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12429",
+            "name": "Uncanny X-Men (1963) #113"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12428",
+            "name": "Uncanny X-Men (1963) #112"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12427",
+            "name": "Uncanny X-Men (1963) #111"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2006-05-03T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bc5ef139395d",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5b314996e924c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/58b47e56d9110",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/58b47d466b724",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/58b47b21d7a38",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/58b08688b39f7",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/58b073f1c24bc",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/58b072b602b25",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/58b0715a71844",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/58b06fcb6b2a9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/58b06e6135812",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/58b06d5a1c717",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/58adbc99346a4",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/58ada6cb194fb",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/58ad9dc4b8483",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/58acb2da003de",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/58aca218a9b92",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/58ac960bd018a",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/0/04/58ac7f57e7dbc",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/58ac775cb6653",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/58a60926b5ae7",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/58a608440fccc",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/58a6072a258e8",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/58a605925fe17",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/58a604a4a5425",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/58a60348b8f59",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/58a60168b290d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/53fe054f29d76",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/53d942c533b66",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/53d942a491ba9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/53d9426cd36ff",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/53d7f95b34eca",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/53d7f93a4cb35",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/53d7f8e67fb73",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/5372af9b9acbf",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5372af67e0d05",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/5372af3713322",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5372af08d57b1",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/5372aed9a72ef",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5372aeac8c428",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/5372ae70d2317",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/5372ae4064409",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5372ae149a0a8",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/5372ade35feda",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5372ab5647c56",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5372aa6b55d83",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/519b7f491722f",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4bc3765564d36",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bc5ef139395d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/4bc47fdfb5897",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/4bc47fdacfdd0",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc380e59d312",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bc37664aa0b0",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc3765a62e9c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc3765072b3c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc3764b7ea02",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc376412c82f",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bc3763c26daa",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc376321dfc0",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bc3762d077bb",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4bc37627dfbff",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc37622c16fa",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc3761dc1268",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4bc37618a7320",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bc37613858c2",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc3760e61bed",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc3760963f7d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc35edea6d72",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 50,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/4100/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+              "name": "Diana Albers",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+              "name": "John Costanza",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1778",
+              "name": "Dan Crespi",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1284",
+              "name": "Michael Higgins",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1806",
+              "name": "Annette Kawecki",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11063",
+              "name": "Terry Kevin Austin",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2151",
+              "name": "Frank Chiaramonte",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1314",
+              "name": "Sam Grainger",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1326",
+              "name": "Dan Green",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/106",
+              "name": "Bob Brown",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1394",
+              "name": "Bob Budiansky",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+              "name": "Sal Buscema",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/46",
+              "name": "Dave Cockrum",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1172",
+              "name": "Tony Dezuniga",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13769",
+              "name": "Bill Mantlo - Duplicate",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1767",
+              "name": "Janice Cohen",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1747",
+              "name": "Petra Goldberg",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1178",
+              "name": "Archie Goodwin",
+              "role": "editor"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 64,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/4100/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009153",
+              "name": "Angel (Warren Worthington III)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009158",
+              "name": "Arcade"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009163",
+              "name": "Aurora"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+              "name": "Banshee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009188",
+              "name": "Black Tom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009232",
+              "name": "Ch'od"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009247",
+              "name": "Corsair"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009249",
+              "name": "Count Nefaria"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011050",
+              "name": "D'Ken Neramani"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+              "name": "Dazzler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009293",
+              "name": "Erik the Red"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009305",
+              "name": "Firelord"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009321",
+              "name": "Gladiator (Kallark)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+              "name": "Hank Pym"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 83,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/4100/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15379",
+              "name": "Uncanny X-Men (1963) #100",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15380",
+              "name": "Greater Love Hath No X-Man...",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15381",
+              "name": "Uncanny X-Men (1963) #101",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15382",
+              "name": "Like a Phoenix, From the Ashes!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15383",
+              "name": "Uncanny X-Men (1963) #102",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15384",
+              "name": "Who Will Stop the Juggernaut?",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15385",
+              "name": "Uncanny X-Men (1963) #103",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15386",
+              "name": "The Fall of the Tower",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15387",
+              "name": "Uncanny X-Men (1963) #104",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15388",
+              "name": "The Gentleman's Name is Magneto",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15389",
+              "name": "Uncanny X-Men (1963) #105",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15390",
+              "name": "Phoenix Unleashed!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15391",
+              "name": "Uncanny X-Men (1963) #106",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15392",
+              "name": "Dark Shroud of the Past !",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15393",
+              "name": "Uncanny X-Men (1963) #107",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15394",
+              "name": "Where No X-Man Has Gone Before!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15395",
+              "name": "Uncanny X-Men (1963) #108",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15396",
+              "name": "Armageddon Now !",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15397",
+              "name": "Uncanny X-Men (1963) #109",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15398",
+              "name": "Home are the Heroes!",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/4100/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 4114,
+        "digitalId": 0,
+        "title": "New Mutants Classic Vol. 1 (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Cannonball. Sunspot. Moonstar. Karma. Rahne. Teenagers, thrown together by the one thing they had in common: the X factor in their genes that made them different, made them mutants. Relive the adventurers of the team that will come to be known as X-Force...if they survive. Collects MARVEL GRAPHIC NOVEL #5, NEW MUTANTS #1-7 and UNCANNY X-MEN #167.\r<br>240 PGS./Rated T+ SUGGESTED FOR TEENS AND UP ...$24.99\r<br>",
+        "modified": "2017-11-08T14:58:42-0500",
+        "isbn": "0-7851-2194-3",
+        "upc": "5960612194-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Cannonball. Sunspot. Moonstar. Karma. Rahne. Teenagers, thrown together by the one thing they had in common: the X factor in their genes that made them different, made them mutants. Relive the adventurers of the team that will come to be known as X-Force...if they survive. Collects MARVEL GRAPHIC NOVEL #5, NEW MUTANTS #1-7 and UNCANNY X-MEN #167.\r<br>240 PGS./Rated T+ SUGGESTED FOR TEENS AND UP ...$24.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4114",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/4114/new_mutants_classic_vol_1_trade_paperback?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/New-Mutants-Classic-Vol-1-0/digital-comic/31620?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/1763",
+          "name": "New Mutants Classic Vol. 1 (2006)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/128",
+            "name": "New Mutants (2003) #7"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10348",
+            "name": "New Mutants (1983) #13"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10410",
+            "name": "New Mutants (1983) #7"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10399",
+            "name": "New Mutants (1983) #6"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10388",
+            "name": "New Mutants (1983) #5"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10377",
+            "name": "New Mutants (1983) #4"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10366",
+            "name": "New Mutants (1983) #3"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10355",
+            "name": "New Mutants (1983) #2"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10343",
+            "name": "New Mutants (1983) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13708",
+            "name": "Uncanny X-Men (1963) #167"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15788",
+            "name": "The New Mutants Marvel Graphic Novel (1982)"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2006-04-19T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/5a0361b7677ba",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/5a0361b7677ba",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bc5eee3bff08",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 19,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/4114/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/412",
+              "name": "Carlo Barberi",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+              "name": "Sal Buscema",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8125",
+              "name": "Bob Mcleod",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+              "name": "Janice Chiang",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+              "name": "Tom Orzechowski",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9201",
+              "name": "Nunzio Defilippis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/411",
+              "name": "Christina Weir",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2695",
+              "name": "Armando Gil",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2297",
+              "name": "Mike Gustovich",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/597",
+              "name": "Tom Mandrake",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1529",
+              "name": "John Tartaglione",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/413",
+              "name": "Juan Vlasco",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4266",
+              "name": "Ian Hannin",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+              "name": "Glynis Oliver",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2053",
+              "name": "George Roussos",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+              "name": "Mike Marts",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4423",
+              "name": "Annie Thornton",
+              "role": "editor"
+            }
+          ],
+          "returned": 19
+        },
+        "characters": {
+          "available": 21,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/4114/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+              "name": "Banshee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009232",
+              "name": "Ch'od"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009733",
+              "name": "Charles Xavier"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009321",
+              "name": "Gladiator (Kallark)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009342",
+              "name": "Hepzibah"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010679",
+              "name": "Julian Keller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011386",
+              "name": "Karma"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009508",
+              "name": "Kitty Pryde"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009402",
+              "name": "Lilandra"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009416",
+              "name": "Magma (Amara Aquilla)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011336",
+              "name": "New Mutants"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009531",
+              "name": "Raza"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+              "name": "Storm"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009638",
+              "name": "Sunspot"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+              "name": "Thing"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/4114/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2080",
+              "name": "Interior #2080",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21377",
+              "name": "Initiation!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21387",
+              "name": "School Daysze",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21401",
+              "name": "Sentinels",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21432",
+              "name": "Nightmare",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21456",
+              "name": "Who's Scaring Stevie?",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21478",
+              "name": "Heroes",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21500",
+              "name": "Road Warriors!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21522",
+              "name": "Flying Down to Rio!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/27843",
+              "name": "The Goldilocks Syndrome (Or: Who's Been Sleeping In My Head?)",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/36682",
+              "name": "Interior #36682",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/66039",
+              "name": "NEW MUTANTS CLASSIC VOL. 1 0 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 12
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/4114/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 1951,
+        "digitalId": 0,
+        "title": "X-Men: Eve of Destruction (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Magneto menaces the world once again - but while he threatens to spread war, the X-Men are trapped in Genosha! It's up to Phoenix to lead a new team to victory, but can she manage it? Can they? Guest-starring Dazzler, Northstar, Corsair of the Starjammers and more! Collects UNCANNY X-MEN #391-393 and X-MEN #111-113.\r<br>152 PGS./MARVEL PSR ...$14.99\r<br>",
+        "modified": "2017-05-12T13:06:57-0400",
+        "isbn": "0-7851-1552-8",
+        "upc": "5960611552-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Magneto menaces the world once again - but while he threatens to spread war, the X-Men are trapped in Genosha! It's up to Phoenix to lead a new team to victory, but can she manage it? Can they? Guest-starring Dazzler, Northstar, Corsair of the Starjammers and more! Collects UNCANNY X-MEN #391-393 and X-MEN #111-113.\r<br>152 PGS./MARVEL PSR ...$14.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1951",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1951/x-men_eve_of_destruction_trade_paperback?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/1319",
+          "name": "X-Men: Eve of Destruction (2005)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/14297",
+            "name": "X-Men (1991) #113"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13934",
+            "name": "Uncanny X-Men (1963) #393"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/14296",
+            "name": "X-Men (1991) #112"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13933",
+            "name": "Uncanny X-Men (1963) #392"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/14295",
+            "name": "X-Men (1991) #111"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13932",
+            "name": "Uncanny X-Men (1963) #391"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2005-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5915ec0ab154b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5915ec0ab154b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1951/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/444",
+              "name": "Tom Raney",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+              "name": "Leinil Francis Yu",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+              "name": "Mark Morales",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/471",
+              "name": "Dexter Vines",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2533",
+              "name": "Saida Temofonte",
+              "role": "letterer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 17,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1951/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009199",
+              "name": "Blob"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009232",
+              "name": "Ch'od"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+              "name": "Dazzler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009349",
+              "name": "Holocaust (Age of Apocalypse)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009499",
+              "name": "Polaris"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+              "name": "Quicksilver"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009531",
+              "name": "Raza"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009553",
+              "name": "Sabra"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+              "name": "Storm"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 17
+        },
+        "stories": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1951/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/6609",
+              "name": "Uncanny 391-393; New X-Men 111-113",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28329",
+              "name": "Dad",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28331",
+              "name": "Eve of Destruction Part 1: From the Ashes of the Past...Still Another Genesis!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28333",
+              "name": "Eve of Destruction Part 3: Like Lambs to the Slaughter",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29143",
+              "name": "Prelude to Destruction",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29145",
+              "name": "Eve of Destruction Part 2: A Call to Arms",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29147",
+              "name": "Eve of Destruction Conclusion",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/139360",
+              "name": "cover to X-Men: Eve of Destruction (2005)",
+              "type": "cover"
+            }
+          ],
+          "returned": 8
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1951/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 1587,
+        "digitalId": 0,
+        "title": "Marvel Masterworks: The Uncanny X-Men Vol. 5 (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "In celebration of the 25th anniversary and presented here for the first time in full-archival color, including pages straight from the Byrne/Austin originals, the Dark Phoenix Saga! \r<br>Gathered together by Professor Charles Xavier to protect a world that fears and hates them, the X-Men had fought many battles, been on adventures that spanned galaxies, grappled enemies of limitless might, but none of this could prepare them for the most shocking struggle they would ever face. One of their own members, Jean Grey, has gained power beyond all comprehension, and that power has corrupted her absolutely!\r<br>Now they must decide if the life of the woman they cherish is worth the existence of the entire universe!\r<br>Collecting X-Men #132-140, Annual #4 with special bonus features including the original X-Men #137 story where Jean Grey lived \"Phoenix: The Untold Story\" and the Claremont/Buscema Phoenix classic from Bizarre Adventures #27! And if that wasn't enough, brace yourself for a brouhaha with Wendigo and the seminal story of that furry blue elf Nightcrawler in \"Nightcrawler's Inferno.\"\r<br>",
+        "modified": "2019-02-06T13:33:26-0500",
+        "isbn": "0-7851-1698-2",
+        "upc": "5960611698-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "In celebration of the 25th anniversary and presented here for the first time in full-archival color, including pages straight from the Byrne/Austin originals, the Dark Phoenix Saga! \r<br>Gathered together by Professor Charles Xavier to protect a world that fears and hates them, the X-Men had fought many battles, been on adventures that spanned galaxies, grappled enemies of limitless might, but none of this could prepare them for the most shocking struggle they would ever face. One of their own members, Jean Grey, has gained power beyond all comprehension, and that power has corrupted her absolutely!\r<br>Now they must decide if the life of the woman they cherish is worth the existence of the entire universe!\r<br>Collecting X-Men #132-140, Annual #4 with special bonus features including the original X-Men #137 story where Jean Grey lived \"Phoenix: The Untold Story\" and the Claremont/Buscema Phoenix classic from Bizarre Adventures #27! And if that wasn't enough, brace yourself for a brouhaha with Wendigo and the seminal story of that furry blue elf Nightcrawler in \"Nightcrawler's Inferno.\"\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1587",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1587/marvel_masterworks_the_uncanny_x-men_vol_5_hardcover?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/1440",
+          "name": "Marvel Masterworks: The Uncanny X-Men Vol. 5 (2005)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12459",
+            "name": "Uncanny X-Men (1963) #140"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12457",
+            "name": "Uncanny X-Men (1963) #139"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12456",
+            "name": "Uncanny X-Men (1963) #138"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12455",
+            "name": "Uncanny X-Men (1963) #137"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12454",
+            "name": "Uncanny X-Men (1963) #136"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12453",
+            "name": "Uncanny X-Men (1963) #135"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12452",
+            "name": "Uncanny X-Men (1963) #134"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12451",
+            "name": "Uncanny X-Men (1963) #133"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12450",
+            "name": "Uncanny X-Men (1963) #132"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12449",
+            "name": "Uncanny X-Men (1963) #131"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12448",
+            "name": "Uncanny X-Men (1963) #130"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12446",
+            "name": "Uncanny X-Men (1963) #129"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12445",
+            "name": "Uncanny X-Men (1963) #128"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12444",
+            "name": "Uncanny X-Men (1963) #127"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12443",
+            "name": "Uncanny X-Men (1963) #126"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12442",
+            "name": "Uncanny X-Men (1963) #125"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12441",
+            "name": "Uncanny X-Men (1963) #124"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12440",
+            "name": "Uncanny X-Men (1963) #123"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12439",
+            "name": "Uncanny X-Men (1963) #122"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12438",
+            "name": "Uncanny X-Men (1963) #121"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2005-01-12T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/58a63c4ab52e9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/53fe054f29d76",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 42,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1587/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+              "name": "Diana Albers",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1806",
+              "name": "Annette Kawecki",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2425",
+              "name": "Annette Kaye",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2422",
+              "name": "Karen Mantlo",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11063",
+              "name": "Terry Kevin Austin",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2151",
+              "name": "Frank Chiaramonte",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1314",
+              "name": "Sam Grainger",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8125",
+              "name": "Bob Mcleod",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/106",
+              "name": "Bob Brown",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+              "name": "John Buscema",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/46",
+              "name": "Dave Cockrum",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1172",
+              "name": "Tony Dezuniga",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/389",
+              "name": "Jim Mooney",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1767",
+              "name": "Janice Cohen",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1811",
+              "name": "Francoise Mouly",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+              "name": "Glynis Oliver",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1178",
+              "name": "Archie Goodwin",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2406",
+              "name": "Louise Jones",
+              "role": "editor"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 60,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1587/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009158",
+              "name": "Arcade"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009163",
+              "name": "Aurora"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+              "name": "Banshee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009199",
+              "name": "Blob"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009232",
+              "name": "Ch'od"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009247",
+              "name": "Corsair"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009249",
+              "name": "Count Nefaria"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+              "name": "Dazzler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+              "name": "Doctor Strange"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009286",
+              "name": "Earthquake"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+              "name": "Emma Frost"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009305",
+              "name": "Firelord"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009321",
+              "name": "Gladiator (Kallark)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+              "name": "Hank Pym"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 52,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1587/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/6828",
+              "name": "X-Men 132-140, Annual 4",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15380",
+              "name": "Greater Love Hath No X-Man...",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15382",
+              "name": "Like a Phoenix, From the Ashes!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15384",
+              "name": "Who Will Stop the Juggernaut?",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15386",
+              "name": "The Fall of the Tower",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15388",
+              "name": "The Gentleman's Name is Magneto",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15390",
+              "name": "Phoenix Unleashed!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15392",
+              "name": "Dark Shroud of the Past !",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15394",
+              "name": "Where No X-Man Has Gone Before!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15396",
+              "name": "Armageddon Now !",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15398",
+              "name": "Home are the Heroes!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15402",
+              "name": "The \"X\"-Sanction!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15404",
+              "name": "Mindgames!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15406",
+              "name": "Magneto Triumphant!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15407",
+              "name": "[X-Mail]",
+              "type": "letters"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15409",
+              "name": "Showdown!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15411",
+              "name": "Desolation",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15413",
+              "name": "Visions of Death!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15415",
+              "name": "To Save the Savage Land",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15417",
+              "name": "Psi War!",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1587/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 60,
+        "digitalId": 0,
+        "title": "X-Statix Vol. 4: X-Statix Vs. the Avengers (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Who's stronger? Who can beat whom? Well, you're about to find out! And how! America's favorite mutant team, X-Force, squares off against Earth's Mightiest Heroes, the Avengers, in the rumble of the century...or at least the next four months! Collecting X-STATIX #19-26.",
+        "modified": "2017-05-12T13:08:20-0400",
+        "isbn": "0-7851-1552-8",
+        "upc": "5960611537-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Who's stronger? Who can beat whom? Well, you're about to find out! And how! America's favorite mutant team, X-Force, squares off against Earth's Mightiest Heroes, the Avengers, in the rumble of the century...or at least the next four months! Collecting X-STATIX #19-26."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/60",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/60/x-statix_vol_4_x-statix_vs_the_avengers_trade_paperback?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/1304",
+          "name": "X-Statix Vol. 4: X-Statix Vs. the Avengers (2004)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/14297",
+            "name": "X-Men (1991) #113"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13934",
+            "name": "Uncanny X-Men (1963) #393"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/14296",
+            "name": "X-Men (1991) #112"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13933",
+            "name": "Uncanny X-Men (1963) #392"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/14295",
+            "name": "X-Men (1991) #111"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13932",
+            "name": "Uncanny X-Men (1963) #391"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2004-11-17T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc6b22f09f3c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/5915ebd4ccf4d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/5915eae2c88fb",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/03/5915ea3117643",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/4c3627f998424",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc6b22f09f3c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4bb7b67b95f89",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bb7b64d1d3b8",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/4bb67769d2ee8",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 15,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/95",
+              "name": "Mike Allred",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/444",
+              "name": "Tom Raney",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+              "name": "Leinil Francis Yu",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4055",
+              "name": "Pete Franco",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3710",
+              "name": "Mark Powers",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+              "name": "Mark Morales",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4538",
+              "name": "Edgar Tadeo",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/427",
+              "name": "Tim Townsend",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/471",
+              "name": "Dexter Vines",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2533",
+              "name": "Saida Temofonte",
+              "role": "letterer"
+            }
+          ],
+          "returned": 15
+        },
+        "characters": {
+          "available": 20,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009199",
+              "name": "Blob"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009232",
+              "name": "Ch'od"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+              "name": "Dazzler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009349",
+              "name": "Holocaust (Age of Apocalypse)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009476",
+              "name": "Northstar"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009499",
+              "name": "Polaris"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+              "name": "Professor X"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+              "name": "Quicksilver"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009531",
+              "name": "Raza"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009553",
+              "name": "Sabra"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+              "name": "Storm"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 14,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/6578",
+              "name": "X-Statix 19-26",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/6579",
+              "name": "X-Statix 19-26",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28328",
+              "name": "Cover #28328",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28329",
+              "name": "Dad",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28330",
+              "name": "Eve of Destruction Part 1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28331",
+              "name": "Eve of Destruction Part 1: From the Ashes of the Past...Still Another Genesis!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28332",
+              "name": "Eve of Destruction Part 3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28333",
+              "name": "Eve of Destruction Part 3: Like Lambs to the Slaughter",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29142",
+              "name": "X-MEN (1991) #111",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29143",
+              "name": "Prelude to Destruction",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29144",
+              "name": "X-MEN (1991) #112",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29145",
+              "name": "Eve of Destruction Part 2: A Call to Arms",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29146",
+              "name": "X-MEN (1991) #113",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29147",
+              "name": "Eve of Destruction Conclusion",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 14
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 1079,
+        "digitalId": 0,
+        "title": "X-Men Visionaries: Jim Lee (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The X-Men follow the trail of Rogue's nightmares to a hidden corner of the globe where the great dinosaurs of the Jurassic and Cretaceous Ages continue to rule.",
+        "modified": "2017-05-08T11:33:50-0400",
+        "isbn": "0-7851-0921-8",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 304,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The X-Men follow the trail of Rogue's nightmares to a hidden corner of the globe where the great dinosaurs of the Jurassic and Cretaceous Ages continue to rule."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1079",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1079/x-men_visionaries_jim_lee_trade_paperback?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/139",
+          "name": "X-Men Visionaries: Jim Lee (2002)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13818",
+            "name": "Uncanny X-Men (1963) #277"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13817",
+            "name": "Uncanny X-Men (1963) #276"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13816",
+            "name": "Uncanny X-Men (1963) #275"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13815",
+            "name": "Uncanny X-Men (1963) #274"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13814",
+            "name": "Uncanny X-Men (1963) #273"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13810",
+            "name": "Uncanny X-Men (1963) #269"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13799",
+            "name": "Uncanny X-Men (1963) #258"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13798",
+            "name": "Uncanny X-Men (1963) #257"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13797",
+            "name": "Uncanny X-Men (1963) #256"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13789",
+            "name": "Uncanny X-Men (1963) #248"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2002-11-27T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/5910903fcbeac",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/5910903fcbeac",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1079/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/96",
+              "name": "Jim Lee",
+              "role": "penciller"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 45,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1079/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+              "name": "Banshee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+              "name": "Cannonball"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009223",
+              "name": "Captain Britain"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009232",
+              "name": "Ch'od"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+              "name": "Dazzler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009270",
+              "name": "Deathbird"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009286",
+              "name": "Earthquake"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009309",
+              "name": "Forge"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009315",
+              "name": "Gateway"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009321",
+              "name": "Gladiator (Kallark)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009342",
+              "name": "Hepzibah"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009381",
+              "name": "Jubilee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009393",
+              "name": "Lady Deathstrike"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1079/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/140",
+              "name": "The X-Men follow the trail of Rogue's nightmares to a hidden corner of the globe where the great dinosaurs of the Jurassic and C",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28006",
+              "name": "The Cradle Will Fall",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28022",
+              "name": "The Key That Breaks the Locke",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28024",
+              "name": "I Am Lady Mandarin",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28026",
+              "name": "Broken Chains",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28048",
+              "name": "Rogue Redux",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28056",
+              "name": "Too Many Mutants",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28058",
+              "name": "Crossroads",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28060",
+              "name": "The Path Not Taken",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28062",
+              "name": "Double Death",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28064",
+              "name": "Free Charley",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/65216",
+              "name": "X-MEN VISIONARIES: JIM LEE TPB 0 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 12
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1079/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 13932,
+        "digitalId": 7407,
+        "title": "Uncanny X-Men (1963) #391",
+        "issueNumber": 391,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13932",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/13932/uncanny_x-men_1963_391?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Uncanny-X-Men-391/digital-comic/7407?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7407&utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/7407?utm_campaign=apiRef&utm_source=249c52c1973c26e82064e4b750c35804"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+          "name": "Uncanny X-Men (1963 - 2011)"
+        },
+        "variants": [],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1951",
+            "name": "X-Men: Eve of Destruction (Trade Paperback)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60",
+            "name": "X-Statix Vol. 4: X-Statix Vs. the Avengers (Trade Paperback)"
+          }
+        ],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2001-03-01T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2008-09-17T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2014-03-18T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/03/5915ea3117643",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/03/5915ea3117643",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/4c3627f998424",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13932/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4055",
+              "name": "Pete Franco",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3710",
+              "name": "Mark Powers",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/444",
+              "name": "Tom Raney",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2533",
+              "name": "Saida Temofonte",
+              "role": "letterer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13932/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009232",
+              "name": "Ch'od"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009531",
+              "name": "Raza"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13932/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28328",
+              "name": "Cover #28328",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28329",
+              "name": "Dad",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13932/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="ImageSlider" customModule="Hulk_Comics" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="246"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bounces="NO" pagingEnabled="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" bouncesZoom="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sx1-Wj-og3" userLabel="images scroll view">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="246"/>
+                </scrollView>
+                <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="4" translatesAutoresizingMaskIntoConstraints="NO" id="Ul8-rd-3rR">
+                    <rect key="frame" x="173.5" y="199" width="67" height="37"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="67" id="SZH-Xf-ZfQ"/>
+                    </constraints>
+                    <color key="pageIndicatorTintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </pageControl>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="sx1-Wj-og3" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="MWr-Ku-Yi2"/>
+                <constraint firstItem="sx1-Wj-og3" firstAttribute="bottom" secondItem="iN0-l3-epB" secondAttribute="bottom" id="Nnq-aB-ZTZ"/>
+                <constraint firstAttribute="trailing" secondItem="sx1-Wj-og3" secondAttribute="trailing" id="VdN-gr-V1p"/>
+                <constraint firstItem="sx1-Wj-og3" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="mvx-Zn-ITl"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="Ul8-rd-3rR" secondAttribute="bottom" constant="10" id="rzz-Xj-4Z1"/>
+                <constraint firstItem="Ul8-rd-3rR" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="wcP-4D-31f"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="pageControl" destination="Ul8-rd-3rR" id="AsS-m3-QRn"/>
+                <outlet property="scrollView" destination="sx1-Wj-og3" id="52I-se-Io3"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="-119.86607142857142"/>
+        </view>
+    </objects>
+</document>
